@@ -1,0 +1,304 @@
+body {
+    width: auto;
+}
+
+@font-face {
+    font-family: "Product Sans";
+    src: url(./fonts/Product-Sans-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Product Sans bold";
+    src: url(./fonts/Product-Sans-bold.ttf);
+}
+
+.text-1 {
+    font-family: "Product Sans";
+    margin-left: 13px;
+    color: #A7A7A7;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.text-2 {
+    color: #000000;
+    font-family: "Product Sans bold";
+    font-size: 18px;
+    margin-left: 12px;
+}
+
+.text-3 {
+    color: #A4A4A4;
+    font-family: "Product Sans";
+    font-size: 13px;
+    line-height: 13px;
+}
+
+.picture-3 {
+    padding-top: 5px;
+    margin-left: 32px;
+}
+
+.grid-box div {
+    font-family: "Product Sans";
+    padding-top: 53px;
+    font-size: 14px;
+    color: #0C0C0D;
+    display: flex;
+    margin-left: 20px;
+}
+
+.text-4 {
+    color: #5932EA;
+    margin-top: 30px;
+}
+
+.containerr {
+    width: 273px;
+    height: 922px;
+    background-color: #FFFFFF;
+    border-color: #F8FAFB;
+    border-style: solid;
+    margin-left: 0;
+
+}
+
+.picture-2 {
+    display: flex;
+}
+
+.picture-4 {
+    display: flex;
+
+}
+
+.text-4 {
+    margin-left: 20px;
+}
+
+.line {
+    border-style: dashed;
+    margin-top: 43px;
+}
+
+.underline {
+    color: #0C0C0D;
+    font-family: "Product Sans";
+}
+
+.text-5 {
+    margin-top: 23px;
+    font-family: "Product Sans";
+    font-size: 16px;
+    color: #343434;
+
+}
+
+.red {
+    width: 64px;
+    height: 23px;
+    background-color: #C10A0A26;
+    border-radius: 50px;
+    margin-top: 23px;
+    margin-left: 5px;
+
+}
+
+.text-6 {
+    font-family: "Product Sans";
+    color: #0B8A00;
+    font-size: 14px;
+}
+
+.text-7 {
+    font-family: "Product Sans";
+    font-size: 28px;
+    color: #343434;
+    ;
+}
+
+.text-8 {
+    font-family: "Product Sans";
+    font-size: 14px;
+    color: #949494;
+}
+
+.green {
+    width: 64px;
+    height: 23px;
+    background-color: #23C10A26;
+    border-radius: 50px;
+    margin-top: 23px;
+    margin-left: 5px;
+}
+
+.text-9 {
+    font-family: "Product Sans";
+    font-size: 14px;
+    color: #C71026;
+}
+
+.cont-5 {
+    height: 295px;
+    background-color: #FFFFFF;
+    width: 687px;
+    margin-left: 41px;
+    margin-top: 24px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: #ECEEF6;
+    padding-left: 27px;
+}
+
+.text-10 {
+    font-family: "Product Sans";
+    font-size: 20px;
+    color: #000;
+    margin-top: 27px;
+}
+
+.box-2 {
+    display: flex;
+    width: 131px;
+    height: 34px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10.872px;
+    background: #F6F6F6;
+    margin-left: 354px;
+}
+
+.text-11 {
+    color: #1A2B88;
+    text-align: center;
+    font-size: 12.683px;
+    font-family: "Product Sans";
+}
+
+.text-12 {
+    color: #949494;
+    font-size: 14.495px;
+    font-family: "Product Sans";
+    margin-top: 24px;
+    display: flex;
+}
+
+.text-13 {
+    font-family: "Product Sans";
+    margin-left: 122px;
+    display: flex;
+}
+
+.text-14 {
+    font-family: "Product Sans";
+    margin-left: 58px;
+    display: flex;
+}
+
+.text-15 {
+    font-family: "Product Sans";
+    margin-left: 62px;
+    display: flex;
+}
+
+.text-16 {
+    font-family: "Product Sans";
+    margin-left: 68px;
+}
+
+hr {
+    width: 630px;
+    color: #EFEFEF;
+    height: 1px;
+    margin-top: 15px;
+}
+
+.text-17 {
+    font-size: 14.495px;
+    font-family: "Product Sans";
+    padding-top: 5px;
+    margin-left: 5px;
+    display: flex;
+    color: #000;
+}
+
+.text-18 {
+    font-family: "Product Sans";
+    padding-top: 5px;
+    margin-left: 5px;
+    display: flex;
+    color: #000;
+    font-size: 14.495px;
+}
+
+.text-19 {
+    font-size: 14.495px;
+    font-family: "Product Sans";
+    display: flex;
+    padding-top: 5px;
+    margin-left: 5px;
+    color: #000;
+}
+
+.text-20 {
+    font-size: 14.495px;
+    font-family: "Product Sans";
+    margin-left: 80px;
+    color: #000;
+}
+
+.text-21 {
+    font-size: 14.495px;
+    font-family: "Product Sans";
+    margin-left: 72px;
+    color: #000;
+}
+
+.text-22 {
+    font-size: 14.495px;
+    color: #000;
+    margin-left: 100px;
+    font-family: "Product Sans";
+}
+
+.text-23 {
+    font-size: 14.495px;
+    margin-left: 82px;
+    color: #000;
+}
+
+.text-24 {
+    margin-left: 94px;
+    color: #000;
+    font-size: 14.495px;
+}
+.text-28 {
+    font-size: 14.495px;
+    font-family: "Product Sans";
+    margin-left: 67px;
+    color: #000;
+}
+.green-cont{
+    width: 87px;
+    height: 24px;
+    background-color: #16C09833;
+    margin-left: 50px;
+}
+.text-29{
+    color: #16C098;
+    font-family: "Product Sans";
+    font-size: 14px;
+    text-align: center;
+}
+.gray-cont{
+    width: 87px;
+    height: 24px;
+    background-color: #AFAFAF33;
+    margin-left: 50px;   
+}
+.text-30{
+    font-family: "Product Sans";
+    font-size: 14px;
+    text-align: center;
+    color:#5C5C5C;
+}
